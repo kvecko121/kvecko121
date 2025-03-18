@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Samuel</h1>
-<h3 align="center">Software dev. student :denmark: passionate about ML, data, real-estate and architecture</h3>
+<h3 align="center">Software dev. student in Denmark passionate about ML, data, real estate and architecture</h3>
 
 - :crystal_ball: I’m currently working on [eZnalec - property evaluation](https://github.com/kvecko121/eZnalec_python_ML.git)
 
