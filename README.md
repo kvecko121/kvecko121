@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Tree-based Models, Docker, JavaScript, React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kvecko121](https://github.com/kvecko121)
+- 👨‍💻 All of my projects are available at [github.com/kvecko121](https://github.com/kvecko121) + the team I work with [github.com/BobSysDev](https://github.com/BobSysDev)
 
 - 💬 Ask me about **Python, ML Models, Data Analysis**
 
