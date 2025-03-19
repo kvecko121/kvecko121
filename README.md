@@ -3,13 +3,13 @@
 
 - :crystal_ball: I’m currently working on [eZnalec - property evaluation](https://github.com/kvecko121/eZnalec_python_ML.git)
 
-- 🌱 I’m currently learning **Docker, JavaScript, React**
+- 🌱 I’m currently learning **Tree-based Models, Docker, JavaScript, React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kvecko121](https://github.com/kvecko121)
 
 - 💬 Ask me about **Python, ML Models, Data Analysis**
 
-- 📫 How to reach me <a href="mailto:samo.knieza@gmail.com"><b>samo.knieza@gmail.com</b></a>
+- 📫 How to reach me:  <a href="mailto:samo.knieza@gmail.com"><b>samo.knieza@gmail.com</b></a>
 
 - ⚡ Fun fact - **I love MTB and Urbanism**
 
