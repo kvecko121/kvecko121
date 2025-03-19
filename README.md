@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **Python, ML Models, Data Analysis**
 
-- 📫 How to reach me **samo.knieza@gmail.com**
+- 📫 How to reach me <a href="mailto:samo.knieza@gmail.com"><b>samo.knieza@gmail.com</b></a>
 
-- ⚡ Fun fact **I love MTB and Urbanism**
+- ⚡ Fun fact - **I love MTB and Urbanism**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
